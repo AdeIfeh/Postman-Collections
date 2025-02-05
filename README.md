@@ -1,7 +1,7 @@
 
 **API Testing Documentation**
 
-This README file documents the API testing conducted for the Ardilla Holdy and Hargon App projects. The focus was on validating the functionality and reliability of various endpoints.
+This README file documents the API testing conducted for the Ardilla Holdy, Ardilla Retail Withdrawal Requests, Hargon App projects. The focus was on validating the functionality and reliability of various endpoints.
 
 **Summary**
 
@@ -13,7 +13,7 @@ To ensure the APIs meet functionality, reliability, and security requirements.
 
 **Postman**: For endpoint testing and validations.
 
-**Newman**: To automate test execution via CLI for CI/CD pipelines.
+**Postman**: To automate test execution via CLI for CI/CD pipelines.
 
 
 **Key Focus Areas**
@@ -156,7 +156,7 @@ Set up environment variables like {{base_url}}, token, etc.
 
 3. **Run Collections**
 
-Execute tests via Postman or use Newman for automated testing.
+Execute tests via Postman for automated testing.
 
 4. **Analyze Results**
 
